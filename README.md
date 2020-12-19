@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [bolero-music](https://github.com/itswilliambailey/bolero-music)
 
-- 🌱 I’m currently learning **React and Stimulus**
-
-- 💬 Ask me about **rails**
+- 🌱 Also learning **React and Stimulus**
 
 - 📫 How to reach me **aamontoo@gmail.com**
 
